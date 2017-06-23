@@ -1,0 +1,1 @@
+# shopware-rest-api-client
