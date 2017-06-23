@@ -13,7 +13,8 @@
   },
   "main": "./lib/index",
   "dependencies": {
-    "@types/node": "^7.0.27"
+    "@types/node": "^7.0.27",
+    "reflect-metadata": "^0.1.10"
   },
   "scripts": {
     "test": "./node_modules/typescript/bin/tsc && ./node_modules/mocha/bin/mocha"
