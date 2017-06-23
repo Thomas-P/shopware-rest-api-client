@@ -1,1 +1,4 @@
-# shopware-rest-api-client
+# Shopware REST-API Client
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Thomas-P/shopware-rest-api-client.svg)](https://greenkeeper.io/) [![Build Status](https://travis-ci.org/Thomas-P/shopware-rest-api-client.svg?branch=master)](https://travis-ci.org/Thomas-P/shopware-rest-api-client) [![Coverage Status](https://coveralls.io/repos/github/Thomas-P/shopware-rest-api-client/badge.svg)](https://coveralls.io/github/Thomas-P/shopware-rest-api-client) [![Known Vulnerabilities](https://snyk.io/test/github/thomas-p/shopware-rest-api-client/badge.svg)](https://snyk.io/test/github/thomas-p/shopware-rest-api-client)
