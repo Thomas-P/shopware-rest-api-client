@@ -63,12 +63,8 @@ typings/
 .gitignore
 .idea/
 
-lib/*/*.js
-lib/*.js
-lib/*.js.map
-lib/*/*.js.map
+lib/**/*.js
+lib/**/*.js.map
 
-test/*/*.js
-test/*/*.js.map
-test/*.js
-test/*.js.map
+test/**/*.js
+test/**/*.js.map

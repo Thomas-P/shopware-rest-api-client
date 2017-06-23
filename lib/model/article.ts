@@ -7,7 +7,7 @@ import {RequiredParameter} from "../decorators/required";
 import {PropertyGroup} from "./property-group";
 import {CustomerGroup} from "./customer-group";
 import {Image} from "./image";
-import {Link} from "./Link";
+import {Link} from "./link";
 import {ConfiguratorSet} from "./configurator-set";
 import {Translation} from "./translation";
 import {Related} from "./related";
